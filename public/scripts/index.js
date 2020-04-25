@@ -4,7 +4,8 @@
     let contador = 0
   
 
-    const Elogios = ["Seu olho é mais bem desenhado que os animes",
+    const Elogios = [
+              "Seu olho é mais bem desenhado que os animes",
               "Esse sorriso ae brilha mais que sol",
               "MEU DEUS ME DIZ A O NOME DO SEU SHAMPO Q PQP Q CABELO PERFEITO",
               "1,54 de pura gostorusa, mulherão da porra",
@@ -14,6 +15,14 @@
               "Da um oi pra Zeus por mim , ja que vc é uma deusa grega",
               "Se vender foto do pé fica rica",
               "Ja disse que seu sorriso é perfeito? , ELE É",
+              "Agora sobre sua personalidade",
+              "A pessoa mais simpatica do planeta",
+              "A Mais Amigavel tambem (tecnicamente minha primeira amiga na escola)",
+              "Nossaaa senhora Ceci do ceu melhor pessoa pra convesar",
+              "As melhores fotos",
+              "As melhores historias",
+              "Cantadas não são seu forte, mas é engraçada PRA KARALEO",
+              "ah quase ja ia me esquencendo, seu sorriso é perfeito dms,",
               "Fim , Espero que tinha gostado , volte sempre que quiser"
             ]
 
